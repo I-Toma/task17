@@ -1,0 +1,15 @@
+User Overview
+--------------
+Total users: 2
+Total tasks: 2
+
+User: admin
+Total tasks assigned: 2
+Percentage of total tasks: 0.00%
+Percentage of completed tasks: 0.00%
+Percentage of uncompleted tasks: 100.00%
+Percentage of overdue tasks: 100.00%
+
+User: jt
+Total tasks assigned: 0
+No tasks assigned yet!
